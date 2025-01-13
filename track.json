@@ -1,0 +1,38 @@
+[
+	{
+		"term": "Win",
+		"start_time": 1.0,
+		"end_time": 3.0,
+		"intensity": "High"
+	},
+	{
+		"term": "Goal",
+		"start_time": 5.0,
+		"end_time": 7.0,
+		"intensity": "Medium"
+	},
+	{
+		"term": "Victory",
+		"start_time": 10.0,
+		"end_time": 12.5,
+		"intensity": "Low"
+	},
+	{
+		"term": "Amazing",
+		"start_time": 15.0,
+		"end_time": 17.0,
+		"intensity": "High"
+	},
+	{
+		"term": "Champion",
+		"start_time": 20.0,
+		"end_time": 23.0,
+		"intensity": "Medium"
+	},
+	{
+		"term": "Unstoppable",
+		"start_time": 25.0,
+		"end_time": 28.0,
+		"intensity": "Low"
+	}
+]

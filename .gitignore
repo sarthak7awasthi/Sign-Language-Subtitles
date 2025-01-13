@@ -1,0 +1,55 @@
+# Ignore build artifacts
+/build/
+*.o
+*.obj
+*.exe
+*.out
+*.log
+*.a
+*.so
+*.dll
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled dynamic libraries
+*.dylib
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+
+# Images and generated outputs
+/src/output.mp4
+/output.mp4
+
+# Python cache (if used for testing or FastAPI)
+__pycache__/
+*.py[cod]
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+*.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency folders
+/node_modules/
